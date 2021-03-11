@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ficha2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ficha2\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a
+comment1.target=int\ minimo(int[])
+comment1.text=\n\ Ficha\ 2\ Ex1a\n
+comment2.params=a\ i\ f
+comment2.target=int[]\ subArray(int[],\ int,\ int)
+comment2.text=\n\ Ficha\ 2\ Ex1b\n\ Pr\u00E9\ condi\u00E7\u00E3o\:\ i\ <\ f\ ||\ f>a.length\ ||\ i<0\ ||\ f<0\n
+comment3.params=r\ tam\ i
+comment3.target=boolean\ existe(int[],\ int,\ int)
+comment3.text=\n\ \n
+comment4.params=a1\ a2
+comment4.target=int[]\ comuns(int[],\ int[])
+comment4.text=\n\ Ficha\ 2\ Ex1c\n
+numComments=5
